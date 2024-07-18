@@ -1,0 +1,16 @@
+E:\job\project_8\p2p\p2pconn\bin\Debug\p2p.exe.config
+E:\job\project_8\p2p\p2pconn\bin\Debug\p2p.exe
+E:\job\project_8\p2p\p2pconn\bin\Debug\p2p.pdb
+E:\job\project_8\p2p\p2pconn\bin\Debug\Newtonsoft.Json.dll
+E:\job\project_8\p2p\p2pconn\bin\Debug\Newtonsoft.Json.xml
+E:\job\project_8\p2p\p2pconn\obj\Debug\p2pconn.csproj.AssemblyReference.cache
+E:\job\project_8\p2p\p2pconn\obj\Debug\p2pconn.Form1.resources
+E:\job\project_8\p2p\p2pconn\obj\Debug\p2pconn.pDesktop.resources
+E:\job\project_8\p2p\p2pconn\obj\Debug\p2p.Properties.Resources.resources
+E:\job\project_8\p2p\p2pconn\obj\Debug\p2pconn.csproj.GenerateResource.cache
+E:\job\project_8\p2p\p2pconn\obj\Debug\p2pconn.csproj.CoreCompileInputs.cache
+E:\job\project_8\p2p\p2pconn\obj\Debug\p2pconn.csproj.Up2Date
+E:\job\project_8\p2p\p2pconn\obj\Debug\p2p.exe
+E:\job\project_8\p2p\p2pconn\obj\Debug\p2p.pdb
+C:\Users\Admin\Downloads\p2p\p2p\p2pconn\obj\Debug\p2pconn.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\p2p\p2p\p2pconn\obj\Debug\p2p.pdb
